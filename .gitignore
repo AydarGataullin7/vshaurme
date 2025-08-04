@@ -1,3 +1,5 @@
-.idea/
+git add .gitignore
+git commit -m 
+
 git rm -r --cached .idea
-git commit -m
+git commit -m 
