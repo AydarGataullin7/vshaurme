@@ -1,5 +1,4 @@
-git add .gitignore
-git commit -m 
-
 git rm -r --cached .idea
-git commit -m 
+git commit -m "Удаляю папку .idea из отслеживания Git"
+git add .gitignore
+git commit -m "Добавляю правила игнорирования для .idea"
